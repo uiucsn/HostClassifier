@@ -1,0 +1,366 @@
+# CREATED_DATE: 2018-03-26T05:39:43.359Z
+# MODIFIED_DATE: 2021-10-01T22:11:17.931Z
+# STATUS: NeedsTemplate
+# OBS_GROUP: Unknown
+# NON_DETECT_BAND: Gaia-Photometric - G
+# BEST_SPEC_CLASS: SN Ia-91bg-like
+# PHOTO_CLASS: None
+# CONTEXT_CLASS: None
+# BEST_SPECTRUM: None
+# HOST: Host: NGC 2217; (06:21:39.78, -27:14:01.50)
+# ABS_MAG_PEAK_BAND: None
+# ANTARES_CLASSIFICATION: None
+# INTERNAL_SURVEY: None
+# NAME: 2017fzw
+# RA: 95.394875
+# DEC: -27.2148638888889
+# RA_ERR: None
+# DEC_ERR: None
+# DISC_DATE: 2017-08-09T21:25:55Z
+# REDSHIFT: 0.0054
+# REDSHIFT_ERR: None
+# REDSHIFT_SOURCE: None
+# NON_DETECT_DATE: 2017-06-26T15:04:19Z
+# NON_DETECT_LIMIT: 21.5
+# MW_EBV: 0.0369
+# ABS_MAG_PEAK: None
+# ABS_MAG_PEAK_DATE: None
+# POSTAGE_STAMP_FILE: None
+# POSTAGE_STAMP_REF: None
+# POSTAGE_STAMP_DIFF: None
+# POSTAGE_STAMP_FILE_FITS: None
+# POSTAGE_STAMP_REF_FITS: None
+# POSTAGE_STAMP_DIFF_FITS: None
+# K2_VALIDATED: None
+# K2_MSG: None
+# TNS_SPEC_CLASS: SN Ia-91bg-like
+# POINT_SOURCE_PROBABILITY: None
+# SLUG: 2017fzw
+# REAL_BOGUS_SCORE: None
+# HAS_HST: True
+# HAS_SPITZER: None
+# HAS_CHANDRA: True
+# TAGS: []
+
+VARLIST:  MJD		 FLT  FLUXCAL	FLUXCALERR	  MAG	  MAGERR	 MAGSYS	  TELESCOPE	   INSTRUMENT
+OBS:	  57976.243	G-Gaia	39810.717  7333.405	16.000  0.200	None	Unknown	Unknown
+OBS:	  57974.364	Clear-	13568.130  1124.704	17.169  0.090	None	Unknown	Unknown
+OBS:	  57976.243	G	39810.717  7333.405	16.000  0.200	None	Gaia	Gaia-Photometric
+OBS:	  57974.364	Unknown	13568.130  1124.704	17.169  0.090	None	Unknown	Unknown
+OBS:	  57978.016	U	12082.663  605.659	17.295  0.054	None	Swift	UVOT
+OBS:	  57978.017	B	65816.404  1731.516	15.454  0.029	None	Swift	UVOT
+OBS:	  57978.021	V	71282.200  2942.869	15.368  0.045	None	Swift	UVOT
+OBS:	  57980.758	U	27071.366  1615.498	16.419  0.065	None	Swift	UVOT
+OBS:	  57980.758	B	138893.961  4736.873	14.643  0.037	None	Swift	UVOT
+OBS:	  57980.760	V	157664.799  8007.360	14.506  0.055	None	Swift	UVOT
+OBS:	  57982.410	UVW1	6670.761  243.189	17.940  0.040	None	Swift	UVOT
+OBS:	  57982.410	U	44571.376  1257.799	15.877  0.031	None	Swift	UVOT
+OBS:	  57982.410	B	189842.862  3448.049	14.304  0.020	None	Swift	UVOT
+OBS:	  57982.411	V	203029.128  5403.864	14.231  0.029	None	Swift	UVOT
+OBS:	  57984.605	U	60609.020  270.797	15.544  0.005	None	Swift	UVOT
+OBS:	  57988.580	UVW1	10519.652  210.332	17.445  0.022	None	Swift	UVOT
+OBS:	  57988.583	U	60922.488  773.092	15.538  0.014	None	Swift	UVOT
+OBS:	  57988.584	B	274545.194  2069.909	13.903  0.008	None	Swift	UVOT
+OBS:	  57988.589	V	342973.893  3958.250	13.662  0.013	None	Swift	UVOT
+OBS:	  57990.187	UVW1	10091.008  215.132	17.490  0.023	None	Swift	UVOT
+OBS:	  57990.188	U	48378.300  745.718	15.788  0.017	None	Swift	UVOT
+OBS:	  57990.188	B	221888.750  1998.524	14.135  0.010	None	Swift	UVOT
+OBS:	  57990.188	UVW2	2981.199  154.849	18.814  0.056	None	Swift	UVOT
+OBS:	  57990.190	V	338063.351  3410.349	13.678  0.011	None	Swift	UVOT
+OBS:	  57990.190	UVM2	592.184  79.986	20.569  0.147	None	Swift	UVOT
+OBS:	  57994.634	UVW1	6787.576  205.456	17.921  0.033	None	Swift	UVOT
+OBS:	  57994.636	U	29690.970  571.222	16.318  0.021	None	Swift	UVOT
+OBS:	  57994.636	B	144098.073  1644.270	14.603  0.012	None	Swift	UVOT
+OBS:	  57994.640	V	304518.904  3642.330	13.791  0.013	None	Swift	UVOT
+OBS:	  57994.641	UVM2	521.850  76.008	20.706  0.158	None	Swift	UVOT
+OBS:	  57996.760	UVW1	5215.875  224.857	18.207  0.047	None	Swift	UVOT
+OBS:	  57996.761	U	18948.628  362.049	16.806  0.021	None	Swift	UVOT
+OBS:	  57996.762	B	102684.364  964.956	14.971  0.010	None	Swift	UVOT
+OBS:	  57996.762	UVW2	2055.080  69.777	19.218  0.037	None	Swift	UVOT
+OBS:	  57996.764	V	287764.813  2862.917	13.852  0.011	None	Swift	UVOT
+OBS:	  58000.748	UVW1	3825.507  278.305	18.543  0.079	None	Swift	UVOT
+OBS:	  58000.750	U	11314.605  212.023	17.366  0.020	None	Swift	UVOT
+OBS:	  58000.750	B	67891.602  663.063	15.420  0.011	None	Swift	UVOT
+OBS:	  58000.754	V	213578.962  2276.470	14.176  0.012	None	Swift	UVOT
+OBS:	  58003.603	UVW1	2549.453  177.045	18.984  0.075	None	Swift	UVOT
+OBS:	  58003.605	U	10923.320  237.411	17.404  0.024	None	Swift	UVOT
+OBS:	  58003.606	B	58541.215  700.605	15.581  0.013	None	Swift	UVOT
+OBS:	  58003.606	UVW2	771.947  123.125	20.281  0.173	None	Swift	UVOT
+OBS:	  58003.670	V	167126.330  2512.106	14.442  0.016	None	Swift	UVOT
+OBS:	  58006.051	UVW1	1984.503  31.351	19.256  0.017	None	Swift	UVOT
+OBS:	  58006.053	U	9355.160  287.407	17.572  0.033	None	Swift	UVOT
+OBS:	  58006.054	B	41072.045  632.316	15.966  0.017	None	Swift	UVOT
+OBS:	  58006.060	V	138318.814  1987.544	14.648  0.016	None	Swift	UVOT
+OBS:	  58010.180	UVW1	870.566  115.217	20.150  0.144	None	Swift	UVOT
+OBS:	  58010.182	U	6504.494  244.526	17.967  0.041	None	Swift	UVOT
+OBS:	  58010.183	B	28183.108  551.595	16.375  0.021	None	Swift	UVOT
+OBS:	  58010.183	UVW2	839.565  39.004	20.190  0.050	None	Swift	UVOT
+OBS:	  58010.187	V	101864.439  1922.324	14.980  0.020	None	Swift	UVOT
+OBS:	  58013.423	UVW1	699.071  78.087	20.389  0.121	None	Swift	UVOT
+OBS:	  58013.424	B	26769.773  485.451	16.431  0.020	None	Swift	UVOT
+OBS:	  58013.425	UVW2	656.677  99.787	20.457  0.165	None	Swift	UVOT
+OBS:	  58013.426	V	77839.796  1294.923	15.272  0.018	None	Swift	UVOT
+OBS:	  58016.680	U	4530.630  190.039	18.360  0.046	None	Swift	UVOT
+OBS:	  58016.681	B	20944.484  442.696	16.697  0.023	None	Swift	UVOT
+OBS:	  58016.687	V	72420.715  1286.947	15.350  0.019	None	Swift	UVOT
+OBS:	  58038.014	U	2537.835  176.402	18.989  0.075	None	Swift	UVOT
+OBS:	  58038.014	B	15963.005  389.511	16.992  0.026	None	Swift	UVOT
+OBS:	  58038.016	V	36171.927  1077.574	16.104  0.032	None	Swift	UVOT
+OBS:	  58045.058	B	13655.909  387.874	17.162  0.031	None	Swift	UVOT
+OBS:	  58045.061	V	27727.351  861.674	16.393  0.034	None	Swift	UVOT
+OBS:	  57978.799	B	76188.341  397.950	15.295  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  57978.805	V	15498.803  15498.803	17.024  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57978.809	gp	84958.643  723.653	15.177  0.009	None	Siding_Spring_1m	Sinistro
+OBS:	  57978.814	rp	1615554.712  1615554.712	11.979  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57979.158	B	2399.265  2399.265	19.050  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57979.161	V	3239.662  3239.662	18.724  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57979.165	gp	95991.231  394.988	15.045  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57979.171	rp	3000.149  3000.149	18.807  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57979.174	ip	55656.505  442.630	15.636  0.009	None	Siding_Spring_1m	Sinistro
+OBS:	  57980.154	B	108883.640  489.832	14.907  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57980.160	V	124565.602  517.003	14.761  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57980.167	gp	121555.745  431.623	14.788  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57980.170	rp	3432.599  3432.599	18.661  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57980.174	ip	3180.150  3180.150	18.744  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57981.792	B	4292.993  4292.993	18.418  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57981.798	V	169684.568  699.962	14.426  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57981.802	gp	161706.233  578.780	14.479  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57981.810	rp	186964.127  630.212	14.320  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57981.812	ip	133527.129  518.958	14.686  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57984.143	B	211692.551  962.988	14.186  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57984.146	V	234566.915  992.887	14.075  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57984.153	gp	230993.780  773.822	14.091  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57984.156	rp	3450.376  3450.376	18.655  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57984.160	ip	3009.231  3009.231	18.804  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57985.138	B	227723.121  852.397	14.107  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57985.145	V	256222.712  903.354	13.979  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57985.147	gp	249275.417  831.425	14.008  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57985.155	rp	274266.920  897.170	13.904  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57985.159	ip	4622.868  4622.868	18.338  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57986.145	B	233476.199  1292.307	14.079  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  57986.153	V	273200.183  1209.676	13.909  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57986.158	gp	265224.964  880.758	13.941  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57986.161	rp	4409.698  4409.698	18.389  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57986.166	ip	198724.200  770.292	14.254  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57987.792	B	230493.746  860.551	14.094  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57987.800	V	5568.834  5568.834	18.136  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57987.805	gp	265172.290  790.467	13.941  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57987.808	rp	4415.738  4415.738	18.387  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57987.812	ip	4372.861  4372.861	18.398  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57988.795	B	7765.070  7765.070	17.775  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57988.800	V	10710.085  10710.085	17.426  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57988.805	gp	263804.093  991.050	13.946  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57988.810	rp	8413.657  8413.657	17.688  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57988.812	ip	10989.265  10989.265	17.398  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57990.786	B	199504.448  715.170	14.250  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57991.125	B	197635.781  712.691	14.261  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57991.130	V	308503.517  1028.025	13.777  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57991.135	gp	252675.149  705.367	13.994  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57991.140	rp	317243.686  975.452	13.746  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57991.144	ip	4044.730  4044.730	18.483  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57993.371	B	152646.021  533.870	14.541  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57993.377	V	282827.483  940.079	13.871  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57993.381	gp	213121.030  582.736	14.179  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57993.388	rp	281771.200  872.002	13.876  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57993.392	ip	166119.038  620.147	14.449  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57994.758	B	4570.907  4570.907	18.350  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57994.763	V	8518.795  8518.795	17.674  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57994.765	gp	4163.842  4163.842	18.451  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57994.771	rp	6114.739  6114.739	18.034  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57994.777	ip	5924.942  5924.942	18.068  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57996.110	B	106704.843  454.875	14.930  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57996.113	V	244938.435  1006.711	14.027  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57996.120	gp	166718.494  568.930	14.445  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57996.125	rp	233435.147  768.050	14.080  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57996.129	ip	139587.479  636.400	14.638  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57997.786	B	2948.441  2948.441	18.826  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57997.792	V	4219.967  4219.967	18.437  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57997.796	gp	2055.373  2055.373	19.218  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57997.802	rp	3333.395  3333.395	18.693  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57997.808	ip	3452.289  3452.289	18.655  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57998.784	B	74064.074  303.600	15.326  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57998.787	V	205841.748  687.665	14.216  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57998.794	gp	127746.455  408.595	14.734  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57998.798	rp	204194.561  633.588	14.225  0.003	None	Siding_Spring_1m	Sinistro
+OBS:	  57998.802	ip	3133.302  3133.302	18.760  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  57999.742	B	64161.209  379.186	15.482  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  57999.749	V	189264.162  803.904	14.307  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57999.751	gp	113790.693  486.600	14.860  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  57999.759	rp	192807.164  658.706	14.287  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  57999.763	ip	130555.435  505.551	14.711  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.094	B	55153.734  668.693	15.646  0.013	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.102	V	172321.063  1054.734	14.410  0.007	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.104	gp	98614.290  599.721	15.015  0.007	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.111	rp	188388.041  826.171	14.312  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.115	ip	133816.751  652.898	14.684  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.759	B	49471.150  956.013	15.764  0.021	None	Siding_Spring_1m	Sinistro
+OBS:	  58001.762	V	156255.393  4783.625	14.515  0.033	None	Siding_Spring_1m	Sinistro
+OBS:	  58003.091	B	43329.413  480.845	15.909  0.012	None	Siding_Spring_1m	Sinistro
+OBS:	  58003.094	V	149721.530  798.720	14.562  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  58003.101	gp	77801.738  459.980	15.273  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  58003.106	rp	179662.678  775.254	14.364  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  58003.110	ip	134924.298  653.034	14.675  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  58004.112	B	38837.567  356.047	16.027  0.010	None	Siding_Spring_1m	Sinistro
+OBS:	  58004.115	V	140437.453  713.470	14.632  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  58004.122	gp	68961.890  395.854	15.404  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  58004.127	rp	4148.098  4148.098	18.455  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58004.131	ip	5479.763  5479.763	18.153  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58005.124	B	35282.417  353.968	16.132  0.011	None	Siding_Spring_1m	Sinistro
+OBS:	  58005.126	V	129281.792  745.958	14.721  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  58005.130	gp	61509.874  350.791	15.528  0.006	None	Siding_Spring_1m	Sinistro
+OBS:	  58005.134	rp	164805.324  672.542	14.458  0.004	None	Siding_Spring_1m	Sinistro
+OBS:	  58005.138	ip	136766.174  641.035	14.660  0.005	None	Siding_Spring_1m	Sinistro
+OBS:	  58010.685	B	22877.147  308.844	16.602  0.015	None	Siding_Spring_1m	Sinistro
+OBS:	  58010.690	V	7353.014  7353.014	17.834  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58010.694	gp	4026.574  4026.574	18.488  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58010.696	rp	4836.166  4836.166	18.289  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58010.701	ip	5003.003  5003.003	18.252  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58012.719	B	2748.880  2748.880	18.902  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58012.722	V	4125.868  4125.868	18.461  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58012.728	gp	1975.211  1975.211	19.261  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58012.731	rp	3459.018  3459.018	18.653  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58012.733	ip	4298.617  4298.617	18.417  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58018.723	B	22755.782  22755.782	16.607  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58018.727	V	495964.635  495964.635	13.261  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58018.731	gp	11042.772  11042.772	17.392  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58018.733	rp	13825.442  13825.442	17.148  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58018.736	ip	23751.787  23751.787	16.561  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58024.675	B	17973.232  17973.232	16.863  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58024.679	V	18440.982  18440.982	16.836  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58024.682	gp	8273.047  8273.047	17.706  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58024.684	rp	50293.292  314.390	15.747  0.007	None	Siding_Spring_1m	Sinistro
+OBS:	  58024.689	ip	44902.713  396.093	15.869  0.010	None	Siding_Spring_1m	Sinistro
+OBS:	  58030.299	B	13306.436  530.963	17.190  0.043	None	Siding_Spring_1m	Sinistro
+OBS:	  58030.301	V	35959.605  549.136	16.111  0.017	None	Siding_Spring_1m	Sinistro
+OBS:	  58030.306	gp	18853.112  423.466	16.812  0.024	None	Siding_Spring_1m	Sinistro
+OBS:	  58030.309	rp	40609.501  474.653	15.979  0.013	None	Siding_Spring_1m	Sinistro
+OBS:	  58030.311	ip	35407.151  470.836	16.128  0.014	None	Siding_Spring_1m	Sinistro
+OBS:	  58033.087	B	12508.311  269.402	17.257  0.023	None	Siding_Spring_1m	Sinistro
+OBS:	  58033.091	V	33727.400  360.154	16.180  0.012	None	Siding_Spring_1m	Sinistro
+OBS:	  58033.096	gp	18867.879  217.835	16.811  0.013	None	Siding_Spring_1m	Sinistro
+OBS:	  58033.098	rp	37953.765  301.645	16.052  0.009	None	Siding_Spring_1m	Sinistro
+OBS:	  58039.652	B	42574.532  42574.532	15.927  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58039.658	V	72334.627  72334.627	15.352  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58041.265	B	11214.695  139.094	17.375  0.013	None	Siding_Spring_1m	Sinistro
+OBS:	  58041.269	V	27528.279  242.374	16.401  0.010	None	Siding_Spring_1m	Sinistro
+OBS:	  58041.272	gp	16461.160  129.651	16.959  0.009	None	Siding_Spring_1m	Sinistro
+OBS:	  58041.276	rp	28082.962  195.432	16.379  0.008	None	Siding_Spring_1m	Sinistro
+OBS:	  58047.005	B	10532.696  178.249	17.444  0.018	None	Siding_Spring_1m	Sinistro
+OBS:	  58047.009	V	24006.704  275.327	16.550  0.012	None	Siding_Spring_1m	Sinistro
+OBS:	  58047.014	gp	15640.149  150.846	17.014  0.010	None	Siding_Spring_1m	Sinistro
+OBS:	  58047.016	rp	23285.379  223.537	16.582  0.010	None	Siding_Spring_1m	Sinistro
+OBS:	  58053.343	B	9507.917  135.021	17.555  0.015	None	Siding_Spring_1m	Sinistro
+OBS:	  58053.347	V	20386.486  161.955	16.726  0.009	None	Siding_Spring_1m	Sinistro
+OBS:	  58053.350	gp	14751.311  103.013	17.078  0.008	None	Siding_Spring_1m	Sinistro
+OBS:	  58053.354	rp	19286.891  133.180	16.787  0.007	None	Siding_Spring_1m	Sinistro
+OBS:	  58060.708	B	320521.362  320521.362	13.735  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58060.710	V	407544.621  407544.621	13.475  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58062.062	B	8390.624  311.010	17.691  0.040	None	Siding_Spring_1m	Sinistro
+OBS:	  58062.066	V	16696.798  404.531	16.944  0.026	None	Siding_Spring_1m	Sinistro
+OBS:	  58062.071	gp	12991.034  422.011	17.216  0.035	None	Siding_Spring_1m	Sinistro
+OBS:	  58062.073	rp	14451.551  389.132	17.101  0.029	None	Siding_Spring_1m	Sinistro
+OBS:	  58066.943	B	8334.762  148.486	17.698  0.019	None	Siding_Spring_1m	Sinistro
+OBS:	  58066.947	V	14643.166  206.927	17.086  0.015	None	Siding_Spring_1m	Sinistro
+OBS:	  58066.950	gp	12112.285  127.551	17.292  0.011	None	Siding_Spring_1m	Sinistro
+OBS:	  58066.954	rp	11829.304  155.733	17.317  0.014	None	Siding_Spring_1m	Sinistro
+OBS:	  58066.957	ip	11173.860  197.646	17.379  0.019	None	Siding_Spring_1m	Sinistro
+OBS:	  58071.166	B	7947.591  134.263	17.750  0.018	None	Siding_Spring_1m	Sinistro
+OBS:	  58071.168	V	13391.021  152.485	17.183  0.012	None	Siding_Spring_1m	Sinistro
+OBS:	  58071.170	rp	10452.035  99.395	17.452  0.010	None	Siding_Spring_1m	Sinistro
+OBS:	  58071.171	ip	9782.190  146.010	17.524  0.016	None	Siding_Spring_1m	Sinistro
+OBS:	  58078.670	B	4148.251  4148.251	18.455  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58078.673	V	4638.787  4638.787	18.334  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58078.674	rp	3370.716  3370.716	18.681  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58078.676	ip	4367.920  4367.920	18.399  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58079.267	B	7006.728  169.842	17.887  0.026	None	Siding_Spring_1m	Sinistro
+OBS:	  58079.269	V	11114.271  167.360	17.385  0.016	None	Siding_Spring_1m	Sinistro
+OBS:	  58079.272	gp	9975.927  105.353	17.503  0.011	None	Siding_Spring_1m	Sinistro
+OBS:	  58079.278	rp	6820.648  6820.648	17.915  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58079.281	ip	7516.546  167.363	17.810  0.024	None	Siding_Spring_1m	Sinistro
+OBS:	  58084.662	B	6190.102  286.120	18.021  0.050	None	Siding_Spring_1m	Sinistro
+OBS:	  58084.664	V	10250.575  388.803	17.473  0.041	None	Siding_Spring_1m	Sinistro
+OBS:	  58084.666	rp	10366.775  10366.775	17.461  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58084.667	ip	13806.296  13806.296	17.150  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58089.915	B	5905.291  283.787	18.072  0.052	None	Siding_Spring_1m	Sinistro
+OBS:	  58089.919	V	8863.815  295.396	17.631  0.036	None	Siding_Spring_1m	Sinistro
+OBS:	  58089.925	gp	8748.963  235.599	17.645  0.029	None	Siding_Spring_1m	Sinistro
+OBS:	  58089.927	rp	6030.472  228.415	18.049  0.041	None	Siding_Spring_1m	Sinistro
+OBS:	  58089.930	ip	5611.414  264.023	18.127  0.051	None	Siding_Spring_1m	Sinistro
+OBS:	  58100.640	B	5783.932  5783.932	18.094  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58100.644	V	5815.570  5815.570	18.089  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58100.645	gp	3729.431  3729.431	18.571  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58100.651	rp	4263.331  4263.331	18.426  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58100.654	ip	5983.112  5983.112	18.058  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58112.175	B	4283.426  99.497	18.421  0.025	None	Siding_Spring_1m	Sinistro
+OBS:	  58112.179	V	5495.715  132.471	18.150  0.026	None	Siding_Spring_1m	Sinistro
+OBS:	  58112.185	gp	1993.033  1993.033	19.251  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58112.187	rp	2526.619  2526.619	18.994  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58112.190	ip	2456.517  2456.517	19.024  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58122.633	B	3285.872  321.026	18.709  0.106	None	Siding_Spring_1m	Sinistro
+OBS:	  58122.637	V	4593.154  275.364	18.345  0.065	None	Siding_Spring_1m	Sinistro
+OBS:	  58122.641	gp	4973.517  197.648	18.258  0.043	None	Siding_Spring_1m	Sinistro
+OBS:	  58122.643	rp	2619.204  190.689	18.954  0.079	None	Siding_Spring_1m	Sinistro
+OBS:	  58122.646	ip	3632.339  234.356	18.600  0.070	None	Siding_Spring_1m	Sinistro
+OBS:	  58134.127	B	3041.872  115.275	18.792  0.041	None	Siding_Spring_1m	Sinistro
+OBS:	  58134.133	V	3515.286  107.254	18.636  0.033	None	Siding_Spring_1m	Sinistro
+OBS:	  58134.135	gp	4216.071  70.775	18.438  0.018	None	Siding_Spring_1m	Sinistro
+OBS:	  58134.140	rp	557.957  557.957	20.633  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58134.142	ip	783.858  783.858	20.264  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58145.056	B	2617.415  209.923	18.955  0.087	None	Siding_Spring_1m	Sinistro
+OBS:	  58145.058	V	3298.287  218.936	18.704  0.072	None	Siding_Spring_1m	Sinistro
+OBS:	  58145.063	gp	3691.353  129.669	18.582  0.038	None	Siding_Spring_1m	Sinistro
+OBS:	  58145.065	rp	2003.224  2003.224	19.246  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58145.068	ip	2630.785  186.663	18.949  0.077	None	Siding_Spring_1m	Sinistro
+OBS:	  58156.600	B	1900.798  131.433	19.303  0.075	None	Siding_Spring_1m	Sinistro
+OBS:	  58156.605	V	2276.201  163.630	19.107  0.078	None	Siding_Spring_1m	Sinistro
+OBS:	  58156.610	gp	3091.228  94.357	18.774  0.033	None	Siding_Spring_1m	Sinistro
+OBS:	  58156.615	rp	1341.703  1341.703	19.681  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58156.617	ip	1961.769  173.494	19.269  0.096	None	Siding_Spring_1m	Sinistro
+OBS:	  58167.534	B	398.491  398.491	20.999  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58167.537	V	1887.590  87.051	19.311  0.050	None	Siding_Spring_1m	Sinistro
+OBS:	  58167.541	gp	2739.961  50.949	18.905  0.020	None	Siding_Spring_1m	Sinistro
+OBS:	  58167.549	rp	375.174  375.174	21.064  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58167.553	ip	735.958  735.958	20.333  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58178.023	B	2845.897  2845.897	18.864  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58178.028	V	3429.286  3429.286	18.662  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58178.030	gp	2200.541  184.541	19.144  0.091	None	Siding_Spring_1m	Sinistro
+OBS:	  58178.036	rp	2084.651  2084.651	19.202  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58178.040	ip	2452.557  2452.557	19.026  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58189.121	B	1458.854  1458.854	19.590  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58189.126	V	2063.092  2063.092	19.214  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58189.131	gp	972.956  972.956	20.030  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58189.136	rp	1646.908  1646.908	19.458  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58189.138	ip	2345.193  2345.193	19.075  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58193.500	B	748.365  748.365	20.315  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58193.505	V	948.982  948.982	20.057  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58193.510	gp	511.171  511.171	20.729  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58193.519	rp	1085.248  1085.248	19.911  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58193.524	ip	1089.908  1089.908	19.907  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58204.377	ip	2054.328  2054.328	19.218  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58204.466	B	2528.408  2528.408	18.993  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58204.477	V	3474.425  3474.425	18.648  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58204.480	gp	2700.860  2700.860	18.921  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58204.488	rp	2170.859  2170.859	19.158  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58204.496	ip	3462.992  3462.992	18.651  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58215.052	B	1000.233  60.860	20.000  0.066	None	Siding_Spring_1m	Sinistro
+OBS:	  58215.059	V	667.289  667.289	20.439  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58215.066	gp	365.652  365.652	21.092  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58215.073	rp	473.368  473.368	20.812  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58215.076	ip	922.024  922.024	20.088  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58226.382	B	394.492  394.492	21.010  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58226.393	V	521.777  521.777	20.706  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58226.396	gp	360.056  360.056	21.109  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58226.404	rp	567.904  567.904	20.614  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58226.413	ip	1059.902  1059.902	19.937  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58237.369	B	2714.681  2714.681	18.916  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58237.376	V	3730.199  3730.199	18.571  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58237.379	gp	2504.093  2504.093	19.003  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58237.387	rp	1433.964  1433.964	19.609  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58237.393	ip	1499.989  1499.989	19.560  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58250.343	B	5508.384  5508.384	18.147  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58250.354	V	3065.575  3065.575	18.784  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58250.361	gp	1561.975  1561.975	19.516  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58250.368	rp	2624.620  2624.620	18.952  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58250.373	ip	6048.010  6048.010	18.046  1.086	None	Siding_Spring_1m	Sinistro
+OBS:	  58178.030	gp	2200.541  184.541	19.144  0.091	None	Siding_Spring_1m	Sinistro
+# END: 
