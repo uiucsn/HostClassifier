@@ -11,3 +11,5 @@ Either clone this repository, or pip-install the package by running this command
 
 
 # Classifying new datasets
+
+Questions? Comments? Concerns? Feel free to reach out to me at gaglian2@illinois.edu.
